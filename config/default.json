@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://harsh:harsh@cluster0-shard-00-00.5kzmd.mongodb.net:27017,cluster0-shard-00-01.5kzmd.mongodb.net:27017,cluster0-shard-00-02.5kzmd.mongodb.net:27017/test?ssl=true&replicaSet=atlas-ykgx2o-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtSecret": "mysSecretToken",
+  "githubClientId": "Iv1.b0ee3a301078a067",
+  "githubSecret": "28e729e2097401efa82358582a9fca5617bacf67"
+}
