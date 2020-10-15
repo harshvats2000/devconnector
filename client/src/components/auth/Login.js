@@ -6,8 +6,8 @@ import { PropTypes } from 'prop-types';
 
 const Login = ({ login, isAuthenticated }) => {
   const [formData, setFormData] = useState({
-    email: '',
-    password: '',
+    email: 'gurud084@gmail.com',
+    password: 'gurud084',
   });
 
   const { email, password } = formData;
